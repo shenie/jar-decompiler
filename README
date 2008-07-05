@@ -1,0 +1,10 @@
+A ruby script that will decompile the jar file you passed to it
+
+Dependencies (the following executable needs to be in the path):
+* jad (http://www.kpdus.com/jad.html)
+* jar
+
+Usage:
+ruby decompiler.rb jms.jar
+
+
